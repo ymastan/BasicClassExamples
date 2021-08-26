@@ -1,13 +1,7 @@
 matplotlib
-mock
-nose
 numpy
 pandas
-pyparsing
-python-dateutil
-pytz
 scipy
-six
 statsmodels
 import-ipynb
 thinkx
